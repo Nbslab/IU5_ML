@@ -2,3 +2,8 @@
 */.ipynb_checkpoints/
 .idea/
 */.cache/
+RW_ML/*.ipynb
+!RW_ML/research_work_baseline.ipynb
+RW_ML/*.docx
+RW_ML/*.pdf
+Scikit-learn Basics.ipynb
